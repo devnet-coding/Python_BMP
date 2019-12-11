@@ -18,7 +18,7 @@ sudo apt-get install build-essential python3-dev
 ````
 
 ````
-git clone https://github.com/coding-world/Python_BMP.git
+git clone https://github.com/devnetcoding/Python_BMP.git
 ````
 
 ````
